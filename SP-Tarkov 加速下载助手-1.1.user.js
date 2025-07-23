@@ -2,7 +2,7 @@
 // @name         SP-Tarkov 加速下载助手
 // @namespace    http://tampermonkey.net/
 // @version      1.1
-// @description  在 SP-Tarkov 页面添加加速下载功能
+// @description  在 SPTarkov 页面添加加速下载功能
 // @author       麟瑞Sama
 // @match        https://hub.sp-tarkov.com/sc-dereferer/?target=*
 // @grant        GM_setClipboard
@@ -13,7 +13,6 @@
 (function() {
     'use strict';
 
-    // 创建按钮样式
     const style = document.createElement('style');
     style.textContent = `
         .accel-container {
