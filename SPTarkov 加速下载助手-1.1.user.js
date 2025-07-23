@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         SP-Tarkov 加速下载助手
+// @name         SPTarkov 加速下载助手
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  在 SPTarkov 页面添加加速下载功能
